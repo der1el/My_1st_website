@@ -1,0 +1,38 @@
+body {
+		background-color: rgb(173, 164, 164);
+		font-family: 'Roboto' , sans-serif;
+}
+header {
+	background-color: gray;
+	color:bisque;
+	padding: 20px 0;
+	text-align: center;
+}
+
+header nav ul {
+	list-style-type: none;
+	padding: 0%;
+}
+
+header nav ul li {
+	display: inline;
+	margin: 0 10px;
+}
+
+header nav ul li a {
+	color: azure;
+	text-decoration: none;
+}
+
+header nav ul li a:hover {
+	text-decoration: underline;
+}
+
+footer {
+	background-color: #7c7c7c;
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	width: 100%;
+	bottom: 0;
+}
